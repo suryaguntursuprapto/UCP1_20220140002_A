@@ -1,0 +1,32 @@
+body {
+    background-color: #fdfff3;
+    color: #343a40;
+  }
+  .navbar {
+    background-color: #007bff;
+  }
+  .navbar-brand {
+    color: #fff;
+  }
+  .header-left {
+    float: left;
+  }
+  .header-right {
+    float: right;
+  }
+  .carousel-item img {
+    height: 300px;
+    object-fit: cover;
+  }
+  .card {
+    margin-bottom: 20px;
+  }
+  .footer {
+    background-color: #343a40;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
